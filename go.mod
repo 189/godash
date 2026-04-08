@@ -1,4 +1,4 @@
-module github.com/189/golodash
+module github.com/189/godash
 
 go 1.22.2
 

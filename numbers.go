@@ -1,4 +1,4 @@
-package golodash
+package godash
 
 import "math"
 
